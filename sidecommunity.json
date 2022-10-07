@@ -28,10 +28,6 @@
         {
           "type": "photos",
           "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        },
-        {
-          "type": "Category",
-          "usageDescription": "Emulator"
         }
       ],
       "subtitle": "A sneak peek preview of Delta!",
