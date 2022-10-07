@@ -16,6 +16,7 @@
       "localizedDescription": "This version of Delta is essentially the base version of Delta, but with a large number of popular and highly anticipated Pull Requests merged in. Keep in mind there are some bugs and graphical glitches. Refer to https://github.com/ianclawson/Delta-iPac-Edition#readme for more details.",
       "iconURL": "https://i.imgur.com/OPkKmCO.png",
       "tintColor": "#8A28F7",
+      "Category": "Emulator",
       "size": 19765623,
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
