@@ -25,9 +25,9 @@
       ],
       "category": "Emulator",
       "subcategories": [
-          "Console",
-          "Multi",
-          "Simulator"
+        "Console",
+        "Multi",
+        "Simulator"
       ],
       "permissions": [
         {
