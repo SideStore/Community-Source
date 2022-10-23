@@ -210,7 +210,7 @@
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.50",
+      "version": "1.0",
       "versionDate": "2022-03-07",
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
