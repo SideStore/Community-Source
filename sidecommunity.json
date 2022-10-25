@@ -85,10 +85,10 @@
       "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
       "developerName": "libretro",
       "subtitle": "Cross-platform, sophisticated frontend for emulation.",
-      "version": "1.9.0",
-      "versionDate": "2020-08-07",
+      "version": "1.12.0",
+      "versionDate": "2022-10-18",
       "versionDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-      "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/RetroArch.ipa",
+      "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
       "localizedDescription": "RetroArch is a frontend for a plethora of emulators. Almost every Retro console can be run using one of RetroArch's downloadable cores.\n\nThere are several ways to customize your experience by installing different themes, rearranging your touchscreen controls, and downloading game box art.\nRetroArch enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nCheck out all of RetroArch's awesome features at our website: https://www.retroarch.com/",
       "iconURL": "https://i.imgur.com/pqgVB0v.png",
       "tintColor": "#000000",
@@ -101,6 +101,13 @@
         "https://i.imgur.com/4Mj77IY.png"
       ],
       "versions": [
+        {
+          "version": "1.12.0",
+          "date": "2022-10-18",
+          "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
+          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
+          "size": 255389680
+        },
         {
           "version": "1.9.0",
           "date": "2020-08-07",
