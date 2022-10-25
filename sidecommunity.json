@@ -769,16 +769,6 @@
   ],
   "news": [
     {
-      "appID": "me.oatmealdome.dolphinios-njb",
-      "caption": "Play GameCube and Wii classics on your non-jailbroken iPhone or iPad.",
-      "date": "2020-05-04",
-      "identifier": "dolphinios-first-release",
-      "imageURL": "https://cdn.oatmealdome.me/dolphinios/altstore/ios_marketing1024x1024_nobg.png",
-      "notify": false,
-      "tintColor": "363636",
-      "title": "DolphiniOS is here"
-    },
-    {
       "title": "unc0ver 5.0.0 OUT NOW!",
       "identifier": "uncover-v5-release",
       "caption": "The most advanced jailbreak tool yet. Now supporting iOS 11-13.5",
@@ -786,16 +776,6 @@
       "imageURL": "https://i.imgur.com/DahJIZv.png",
       "appID": "science.xnu.undecimus",
       "date": "2020-05-23",
-      "notify": false
-    },
-    {
-      "title": "Provenance now on AltStore!",
-      "identifier": "provenance-now-on-altstore",
-      "caption": "A clean iOS multi-emulator.",
-      "tintColor": "#1c7cf3",
-      "imageURL": "https://i.imgur.com/IuYs0TW.png",
-      "appID": "org.provenance-emu.provenance",
-      "date": "2020-03-25",
       "notify": false
     },
     {
@@ -815,16 +795,6 @@
       "tintColor": "#e32b3c",
       "imageURL": "https://i.imgur.com/LAVDwAh.png",
       "appID": "ru.nonamedude.iTorrent",
-      "date": "2020-03-24",
-      "notify": false
-    },
-    {
-      "title": "GBA4iOS Now Available",
-      "identifier": "gba4ios-available-download",
-      "caption": "The emulator that started it all.",
-      "tintColor": "#78209d",
-      "imageURL": "https://i.imgur.com/VF4NxOd.png",
-      "appID": "com.rileytestut.GBA4iOS",
       "date": "2020-03-24",
       "notify": false
     },
@@ -849,16 +819,6 @@
       "notify": true
     },
     {
-      "title": "UTM version 1.0 release!",
-      "identifier": "utm-1.0-release",
-      "caption": "UTM has now reached its golden 1.0 release. Get Windows, Linux, and more running natively on iOS.",
-      "tintColor": "#2044cd",
-      "imageURL": "https://i.imgur.com/6dMDfs5.png",
-      "appID": "com.utmapp.UTM",
-      "date": "2020-06-19",
-      "notify": false
-    },
-    {
       "title": "Check out ScummVM!",
       "identifier": "scummvm-first-release-altstore",
       "caption": "Point and click adventures at your fingertips.",
@@ -869,16 +829,6 @@
       "notify": false
     },
     {
-      "title": "UTM beta on AltStore!",
-      "identifier": "utm-beta-on-altstore",
-      "caption": "Any OS, Anywhere.",
-      "tintColor": "#2044cd",
-      "imageURL": "https://i.imgur.com/9UAAGYm.png",
-      "appID": "com.utmapp.UTM",
-      "date": "2020-03-26",
-      "notify": false
-    },
-    {
       "title": "Download Play! now.",
       "identifier": "play-download-now",
       "caption": "The best PS2 Emulator on iOS.",
@@ -886,16 +836,6 @@
       "imageURL": "https://i.imgur.com/zgIEVzB.png",
       "appID": "com.virtualapplications.play",
       "date": "2020-04-04",
-      "notify": false
-    },
-    {
-      "title": "GBA4iOS Now Available",
-      "identifier": "gba4ios-available-download-demo",
-      "caption": "Download today from the Demo source.",
-      "tintColor": "78209d",
-      "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
-      "appID": "com.rileytestut.GBA4iOS",
-      "date": "2020-03-24",
       "notify": false
     },
     {
