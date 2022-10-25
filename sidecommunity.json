@@ -228,7 +228,7 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.57",
+          "version": "0.56",
           "date": "2022-10-17",
           "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
           "localizedDescription": "Bug fixes and improvements.",
