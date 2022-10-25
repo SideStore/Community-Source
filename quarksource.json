@@ -280,10 +280,10 @@
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.50",
-      "versionDate": "2022-03-07",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Play.ipa",
+      "version": "1.02",
+      "versionDate": "2022-10-17",
+      "versionDescription": "Bug fixes and improvements.",
+      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
       "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms, making sure the experience is the same quality everywhere.",
       "iconURL": "https://i.imgur.com/NOi1cdl.png",
       "tintColor": "#5f5fff",
@@ -447,6 +447,18 @@
     }
 	],
 	"news": [
+
+		{
+      "title": "RetroArch 1.12.0 released",
+      "identifier": "retroarch-1120-available",
+      "caption": "Looking for that obscure game console? Look no further.",
+      "tintColor": "#000000",
+      "imageURL": "https://i.imgur.com/NQcpuHI.png",
+      "appID": "com.libretro.RetroArch",
+      "date": "2022-10-18",
+      "notify": false
+    },
+
 		{
       "title": "iDOS Now Available.",
       "identifier": "idos-altstore-now-available",
