@@ -18,7 +18,7 @@ sourcesData = [
     {
         "parser": AltSourceParser,
         "kwargs": {"filepath": "quarksource.json"},
-        "ids": ["com.libretro.dist.ios.RetroArch", "com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12", "com.virtualapplications.play"]
+        "ids": ["com.libretro.RetroArchiOS11", "com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12", "com.virtualapplications.play"]
     },
     {
         "parser": AltSourceParser,
