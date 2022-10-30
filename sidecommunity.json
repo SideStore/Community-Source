@@ -82,7 +82,7 @@
     },
     {
       "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.RetroArchiOS11",
+      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
       "developerName": "libretro",
       "subtitle": "Cross-platform, sophisticated frontend for emulation.",
       "version": "1.12.0",
