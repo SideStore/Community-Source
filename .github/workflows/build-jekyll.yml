@@ -1,0 +1,21 @@
+name: Build and Deploy to Github Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build_jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Create custom domain CNAME
+      - run: |
+          echo noahkeck.dev  > CNAME
+      # Use GitHub Jekyll Action to build to repository branch
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          target_branch: 'gh-pages'
