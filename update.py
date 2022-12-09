@@ -82,11 +82,6 @@ sourcesData = [
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "zzanehip", "repo_name": "The-OldOS-Project"},
         "ids": ["com.zurac.OldOS"]
-    },
-    {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://pokemmo.eu/altstore/"},
-        "ids": ["eu.pokemmo.client"]
     }
 ]
 alternateAppData = {
