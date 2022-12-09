@@ -85,8 +85,8 @@ sourcesData = [
     }
 ]
 alternateAppData = {
-    "eu.pokemmo.client": {
-        "beta": False
+    #"eu.pokemmo.client": {
+    #    "beta": False
     }
 }
 
