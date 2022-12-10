@@ -16,7 +16,7 @@ sourcesData = [
         "kwargs": {"filepath": "https://alpha.altstore.io"},
         "ids": ["com.rileytestut.Delta.Alpha", "com.rileytestut.Clip.Beta"],
         "getAllNews": True
-    }
+    },
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
