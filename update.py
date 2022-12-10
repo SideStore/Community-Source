@@ -94,6 +94,18 @@ sourcesData = [
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "zzanehip", "repo_name": "The-OldOS-Project"},
         "ids": ["com.zurac.OldOS"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/ios/app.json"},
+        "ids": ["blog.blurt.blurt"],
+        "getAllNews": True
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://github.com/spknetwork/Android-App/raw/development/ios/app.json"},
+        "ids": ["com.example.acela"],
+        "getAllNews": True
     }
 ]
 alternateAppData = {
