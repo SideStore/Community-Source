@@ -7,6 +7,18 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://apps.altstore.io"},
+        "ids": ["com.rileytestut.Delta", "com.rileytestut.Clip"],
+        "getAllNews": True
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://alpha.altstore.io"},
+        "ids": ["com.rileytestut.Delta.Alpha", "com.rileytestut.Clip.Beta"],
+        "getAllNews": True
+    }
+    {
+        "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
         "ids": ["com.libretro.RetroArchiOS11", "com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12", "com.virtualapplications.play"]
     },
