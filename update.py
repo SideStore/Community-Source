@@ -99,7 +99,7 @@ sourcesData = [
 alternateAppData = {
     #"eu.pokemmo.client": {
     #    "beta": False
-    }
+    #}
 }
 
 def header_remover(filename: str, header: str):
