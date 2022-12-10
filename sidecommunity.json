@@ -9,6 +9,150 @@ permalink: /
   "sourceIconURL": "https://github.com/SideStore/CommunityStore/raw/main/assets/CF187B94-322C-409E-B475-44218E6CBDF7.jpeg",
   "userinfo": {},
   "apps": [
+
+{
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.3.2",
+      "versionDate": "2022-10-18T12:00:00-05:00",
+      "versionDescription": "\u2022 Fixes external keyboard support\n\u2022 Fixes invisible system name when remapping game controllers on iOS 16\n\u2022 Fixes previous game controller remaining selected after changing controller",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_2.ipa",
+      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System\n\u2022 Super Nintendo Entertainment System\n\u2022 Nintendo 64\n\u2022 Game Boy (Color)\n\u2022 Game Boy Advance\n\u2022 Nintendo DS\n\u2022 And plenty more to come!\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \u201cQuick Save\u201d, \u201cQuick Load,\u201d and \u201cFast Forward\u201d actions.\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \u201cQuick Saves,\u201d save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\nDelta Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \u201cpeek\u201d at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game\u2019s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\u2022 Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 19742740,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
+        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
+      ],
+      "versions": [
+        {
+          "version": "1.3.2",
+          "date": "2022-10-18T12:00:00-05:00",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_2.ipa",
+          "localizedDescription": "\u2022 Fixes external keyboard support\n\u2022 Fixes invisible system name when remapping game controllers on iOS 16\n\u2022 Fixes previous game controller remaining selected after changing controller",
+          "size": 19742740
+        }
+      ],
+      "appID": "com.rileytestut.Delta"
+    },
+    {
+      "name": "Clip",
+      "bundleIdentifier": "com.rileytestut.Clip",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.0",
+      "versionDate": "2020-06-17T12:30:00-07:00",
+      "versionDescription": "Initial version \ud83c\udf89",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n\u2022 Save text, URLs, and images copied to the clipboard.\n\u2022 Copy, delete, or share any clippings saved to Clip.\n\u2022 Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 445056,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2020-06-17T12:30:00-07:00",
+          "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+          "localizedDescription": "Initial version \ud83c\udf89",
+          "size": 445056
+        }
+      ],
+      "appID": "com.rileytestut.Clip"
+    },
+    {
+      "name": "Delta (Alpha)",
+      "bundleIdentifier": "com.rileytestut.Delta.Alpha",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.3a9",
+      "versionDate": "2021-03-11T15:00:00-06:00",
+      "versionDescription": "v1.3 ALPHA RELEASE CANDIDATE\n\nIMPROVEMENTS\n\u2022 Updates portrait controller skin with bigger buttons\n\u2022 Updates Licenses screen to include melonDS and Genesis Plus GX\n\u2022 Supports custom game artwork with transparent backgrounds\n\nBUG FIXES\n\u2022 Fixes custom artwork appearing incorrectly rotated\n\u2022 Fixes game artwork not updating when choosing from Files\n\u2022 Fixes crash when playing DS games and another app is using the microphone\n\u2022 Fixes some erroneous sync errors",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/sources/alpha/delta/1_3_a9.ipa",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\n\u2022\u00a0Playing DS games\n\u2022 Save States\n\u2022 Hold Button\n\nFeatures I'm still working on:\n\u2022 Fast Forward\n\u2022 Cheats\n\u2022 Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 19728572,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ],
+      "versions": [
+        {
+          "version": "1.3a9",
+          "date": "2021-03-11T15:00:00-06:00",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/sources/alpha/delta/1_3_a9.ipa",
+          "localizedDescription": "v1.3 ALPHA RELEASE CANDIDATE\n\nIMPROVEMENTS\n\u2022 Updates portrait controller skin with bigger buttons\n\u2022 Updates Licenses screen to include melonDS and Genesis Plus GX\n\u2022 Supports custom game artwork with transparent backgrounds\n\nBUG FIXES\n\u2022 Fixes custom artwork appearing incorrectly rotated\n\u2022 Fixes game artwork not updating when choosing from Files\n\u2022 Fixes crash when playing DS games and another app is using the microphone\n\u2022 Fixes some erroneous sync errors",
+          "size": 19728572
+        }
+      ],
+      "appID": "com.rileytestut.Delta.Alpha"
+    },
+    {
+      "name": "Clip (Alpha)",
+      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.1a1",
+      "versionDate": "2020-12-07T13:00:00-06:00",
+      "versionDescription": "NEW FEATURES\n\u2022 Uses background location monitoring to run in background instead of playing silent audio\n\u2022 Adds \"Copy Clipping\" and \"Save to Clip\" intents for use in Shortcuts app",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/clip/1_1_a1.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n\u2022 Save text, URLs, and images copied to the clipboard.\n\u2022 Copy, delete, or share any clippings saved to Clip.\n\u2022 Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 462771,
+      "beta": false,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
+        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
+        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
+      ],
+      "versions": [
+        {
+          "version": "1.1a1",
+          "date": "2020-12-07T13:00:00-06:00",
+          "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/clip/1_1_a1.ipa",
+          "localizedDescription": "NEW FEATURES\n\u2022 Uses background location monitoring to run in background instead of playing silent audio\n\u2022 Adds \"Copy Clipping\" and \"Save to Clip\" intents for use in Shortcuts app",
+          "size": 462771
+        }
+      ],
+      "appID": "com.rileytestut.Clip.Beta"
+    },
     {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
@@ -725,246 +869,7 @@ permalink: /
           "absoluteVersion": "2.2"
         }
       ]
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "eu.pokemmo.client",
-      "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=a333c880",
-      "iconURL": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
-      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
-      "name": "PokeMMO",
-      "screenshotURLs": [
-        "https://pokemmo.com/build/images/screenshot/c.f3968293.png",
-        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
-        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
-        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
-        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
-      ],
-      "size": 77411824,
-      "tintColor": "73ACE2",
-      "version": "21623",
-      "versionDate": "2022-11-02T16:37:28+00:00",
-      "versions": [
-        {
-          "version": "21623",
-          "date": "2022-11-02T16:37:28+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=a333c880",
-          "size": 77411824
-        },
-        {
-          "version": "21617",
-          "date": "2022-11-01T21:41:25+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=5a76e052",
-          "size": 77410756
-        },
-        {
-          "version": "21608",
-          "date": "2022-11-01T01:46:58+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=ddea9c0a",
-          "size": 77413193
-        },
-        {
-          "version": "21588",
-          "date": "2022-10-31T10:39:14+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=fa4cac22",
-          "size": 77412141
-        },
-        {
-          "version": "21578",
-          "date": "2022-10-31T07:30:08+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=36323fea",
-          "size": 77406408
-        },
-        {
-          "version": "21392",
-          "date": "2022-10-20T02:11:22+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=d14f88fc",
-          "size": 76991367
-        },
-        {
-          "version": "21368",
-          "date": "2022-10-18T19:59:21+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=37fa605d",
-          "size": 76901050
-        },
-        {
-          "version": "21341",
-          "date": "2022-10-17T11:38:36+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=776ee017",
-          "size": 76904614
-        },
-        {
-          "version": "21316",
-          "date": "2022-10-15T11:09:33+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=9b12a89b",
-          "size": 76899440
-        },
-        {
-          "version": "21309",
-          "date": "2022-10-15T06:52:16+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=6af72670",
-          "size": 76901400
-        },
-        {
-          "version": "21297",
-          "date": "2022-10-15T04:30:47+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=41421dbd",
-          "size": 76899444
-        },
-        {
-          "version": "20726",
-          "date": "2022-07-01T01:51:22+00:00",
-          "downloadURL": "https://dl.pokemmo.com/download/PokeMMO-Client.ipa?hash=9c960d8a",
-          "size": 76575373
-        }
-      ],
-      "appID": "eu.pokemmo.client"
-    },
-    {
-      "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
-      "developerName": "Riley Testut",
-      "subtitle": "Classic games in your pocket.",
-      "version": "1.3.2",
-      "versionDate": "2022-10-18T12:00:00-05:00",
-      "versionDescription": "\u2022 Fixes external keyboard support\n\u2022 Fixes invisible system name when remapping game controllers on iOS 16\n\u2022 Fixes previous game controller remaining selected after changing controller",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_2.ipa",
-      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System\n\u2022 Super Nintendo Entertainment System\n\u2022 Nintendo 64\n\u2022 Game Boy (Color)\n\u2022 Game Boy Advance\n\u2022 Nintendo DS\n\u2022 And plenty more to come!\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \u201cQuick Save\u201d, \u201cQuick Load,\u201d and \u201cFast Forward\u201d actions.\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \u201cQuick Saves,\u201d save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\nDelta Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \u201cpeek\u201d at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game\u2019s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\u2022 Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "8A28F7",
-      "size": 19742740,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
-        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
-      ],
-      "versions": [
-        {
-          "version": "1.3.2",
-          "date": "2022-10-18T12:00:00-05:00",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_2.ipa",
-          "localizedDescription": "\u2022 Fixes external keyboard support\n\u2022 Fixes invisible system name when remapping game controllers on iOS 16\n\u2022 Fixes previous game controller remaining selected after changing controller",
-          "size": 19742740
-        }
-      ],
-      "appID": "com.rileytestut.Delta"
-    },
-    {
-      "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
-      "version": "1.0",
-      "versionDate": "2020-06-17T12:30:00-07:00",
-      "versionDescription": "Initial version \ud83c\udf89",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n\u2022 Save text, URLs, and images copied to the clipboard.\n\u2022 Copy, delete, or share any clippings saved to Clip.\n\u2022 Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-      "tintColor": "EC008C",
-      "size": 445056,
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2020-06-17T12:30:00-07:00",
-          "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-          "localizedDescription": "Initial version \ud83c\udf89",
-          "size": 445056
-        }
-      ],
-      "appID": "com.rileytestut.Clip"
-    },
-    {
-      "name": "Delta (Alpha)",
-      "bundleIdentifier": "com.rileytestut.Delta.Alpha",
-      "developerName": "Riley Testut",
-      "subtitle": "Classic games in your pocket.",
-      "version": "1.3a9",
-      "versionDate": "2021-03-11T15:00:00-06:00",
-      "versionDescription": "v1.3 ALPHA RELEASE CANDIDATE\n\nIMPROVEMENTS\n\u2022 Updates portrait controller skin with bigger buttons\n\u2022 Updates Licenses screen to include melonDS and Genesis Plus GX\n\u2022 Supports custom game artwork with transparent backgrounds\n\nBUG FIXES\n\u2022 Fixes custom artwork appearing incorrectly rotated\n\u2022 Fixes game artwork not updating when choosing from Files\n\u2022 Fixes crash when playing DS games and another app is using the microphone\n\u2022 Fixes some erroneous sync errors",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/sources/alpha/delta/1_3_a9.ipa",
-      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\n\u2022\u00a0Playing DS games\n\u2022 Save States\n\u2022 Hold Button\n\nFeatures I'm still working on:\n\u2022 Fast Forward\n\u2022 Cheats\n\u2022 Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "8A28F7",
-      "size": 19728572,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
-      ],
-      "versions": [
-        {
-          "version": "1.3a9",
-          "date": "2021-03-11T15:00:00-06:00",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/sources/alpha/delta/1_3_a9.ipa",
-          "localizedDescription": "v1.3 ALPHA RELEASE CANDIDATE\n\nIMPROVEMENTS\n\u2022 Updates portrait controller skin with bigger buttons\n\u2022 Updates Licenses screen to include melonDS and Genesis Plus GX\n\u2022 Supports custom game artwork with transparent backgrounds\n\nBUG FIXES\n\u2022 Fixes custom artwork appearing incorrectly rotated\n\u2022 Fixes game artwork not updating when choosing from Files\n\u2022 Fixes crash when playing DS games and another app is using the microphone\n\u2022 Fixes some erroneous sync errors",
-          "size": 19728572
-        }
-      ],
-      "appID": "com.rileytestut.Delta.Alpha"
-    },
-    {
-      "name": "Clip (Alpha)",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
-      "version": "1.1a1",
-      "versionDate": "2020-12-07T13:00:00-06:00",
-      "versionDescription": "NEW FEATURES\n\u2022 Uses background location monitoring to run in background instead of playing silent audio\n\u2022 Adds \"Copy Clipping\" and \"Save to Clip\" intents for use in Shortcuts app",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/clip/1_1_a1.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n\u2022 Save text, URLs, and images copied to the clipboard.\n\u2022 Copy, delete, or share any clippings saved to Clip.\n\u2022 Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-      "tintColor": "EC008C",
-      "size": 462771,
-      "beta": false,
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
-        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
-        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
-      ],
-      "versions": [
-        {
-          "version": "1.1a1",
-          "date": "2020-12-07T13:00:00-06:00",
-          "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/clip/1_1_a1.ipa",
-          "localizedDescription": "NEW FEATURES\n\u2022 Uses background location monitoring to run in background instead of playing silent audio\n\u2022 Adds \"Copy Clipping\" and \"Save to Clip\" intents for use in Shortcuts app",
-          "size": 462771
-        }
-      ],
-      "appID": "com.rileytestut.Clip.Beta"
     }
-  ],
   "news": [
     {
       "title": "unc0ver 5.0.0 OUT NOW!",
