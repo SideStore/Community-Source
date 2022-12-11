@@ -46,40 +46,6 @@ permalink: /
       "appID": "com.rileytestut.Delta"
     },
     {
-      "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
-      "version": "1.0",
-      "versionDate": "2020-06-17T12:30:00-07:00",
-      "versionDescription": "Initial version \ud83c\udf89",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n\u2022 Save text, URLs, and images copied to the clipboard.\n\u2022 Copy, delete, or share any clippings saved to Clip.\n\u2022 Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-      "tintColor": "EC008C",
-      "size": 445056,
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2020-06-17T12:30:00-07:00",
-          "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-          "localizedDescription": "Initial version \ud83c\udf89",
-          "size": 445056
-        }
-      ],
-      "appID": "com.rileytestut.Clip"
-    },
-    {
       "name": "Delta (Alpha)",
       "bundleIdentifier": "com.rileytestut.Delta.Alpha",
       "developerName": "Riley Testut",
