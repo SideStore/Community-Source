@@ -128,14 +128,6 @@ def header_prepender(filename: str, header: str):
         f.write(header.rstrip('\r\n') + '\n' + content)
         f.truncate()
 
-filename="sidecommunity.json"
-header="""---
-title: JSON Source
-permalink: /
----"""
-
-header_remover(filename,header)
-
 src = altsource_from_file(filename)
 mgr = AltSourceManager(src, sourcesData)
 try:
@@ -146,5 +138,3 @@ try:
 except Exception as err:
     logging.error(f"Unable to update {mgr.src.name}.")
     logging.error(f"{type(err).__name__}: {str(err)}")
-        
-header_prepender(filename, header)
