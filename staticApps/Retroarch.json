@@ -1,0 +1,30 @@
+{
+  "name": "Official SideStore Community Store",
+  "identifier": "com.sidestoreapps.community",
+  "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
+  "sourceIconURL": "https://github.com/SideStore/CommunityStore/raw/main/assets/CF187B94-322C-409E-B475-44218E6CBDF7.jpeg",
+  "userinfo": {},
+  "apps": [
+  {
+      "name": "RetroArch",
+      "bundleIdentifier": "com.libretro.RetroArchiOS11",
+      "developerName": "libretro",
+      "subtitle": "Cross-platform, sophisticated frontend for emulation.",
+      "version": "1.12.0",
+      "versionDate": "2022-10-17",
+      "versionDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
+      "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
+      "localizedDescription": "RetroArch is a frontend for a plethora of emulators. Almost every Retro console can be run using one of RetroArch's downloadable cores.\n\nThere are several ways to customize your experience by installing different themes, rearranging your touchscreen controls, and downloading game box art.\nRetroArch enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nCheck out all of RetroArch's awesome features at our website: https://www.retroarch.com/",
+      "iconURL": "https://i.imgur.com/pqgVB0v.png",
+      "tintColor": "#000000",
+      "size": 435770036,
+      "screenshotURLs": [
+				"https://i.imgur.com/uv1x1c4.png",
+        "https://i.imgur.com/qJdyNl2.png",
+        "https://i.imgur.com/fijaR4n.png",
+				"https://i.imgur.com/B3J5zMB.png",
+        "https://i.imgur.com/4Mj77IY.png"
+      ]
+    }
+  ]
+}
