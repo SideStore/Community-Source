@@ -24,7 +24,7 @@ sourcesData = [
     },
     {
         "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "staticApps/play.json"},
+        "kwargs": {"filepath": "staticApps\play.json"},
         "ids": ["com.virtualapplications.play"]
     },
     {
