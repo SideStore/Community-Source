@@ -334,7 +334,11 @@
       "iconURL": "https://i.imgur.com/NOi1cdl.png",
       "tintColor": "#5f5fff",
       "size": 13371703,
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/64176728/209461585-74b856e0-ae30-41be-91ce-d3eb262be260.png",
+        "https://user-images.githubusercontent.com/64176728/209461591-ab09da6f-c11f-4585-bc65-74b86df6f73a.png",
+        "https://user-images.githubusercontent.com/64176728/209461593-f771a49d-a44d-4d9c-8bb7-dfab48c5dd25.png"
+      ],
       "versions": [
         {
           "version": "0.56",
