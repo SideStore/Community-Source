@@ -20,12 +20,17 @@ sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
-        "ids": ["com.libretro.RetroArchiOS11", "com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12"]
+        "ids": ["com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12"]
     },
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/SideStore/Community-Source/main/staticApps/play.json"},
         "ids": ["com.virtualapplications.play"]
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/SideStore/Community-Source/main/staticApps/Retroarch.json"},
+        "ids": ["com.libretro.RetroArchiOS11"]
     },
     {
         "parser": Parser.ALTSOURCE,
