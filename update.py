@@ -124,7 +124,7 @@ alternateAppData = {
     #         "https://user-images.githubusercontent.com/64176728/209461763-c122f9f6-5103-4c59-b730-0e5b34b5937b.png",
     #         "https://user-images.githubusercontent.com/64176728/209461593-f771a49d-a44d-4d9c-8bb7-dfab48c5dd25.png"
     #    ]
-    }
+    #}
 }
 
 def header_remover(filename: str, header: str):
