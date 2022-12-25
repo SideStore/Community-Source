@@ -128,13 +128,7 @@ def header_prepender(filename: str, header: str):
         f.write(header.rstrip('\r\n') + '\n' + content)
         f.truncate()
 
-filename="sidecommunity.json"
-header=""""""
-
-header_remover(filename,header)
-
-src = altsource_from_file(filename)
-mgr = AltSourceManager(src, sourcesData)
+mgr = AltSourceManager(sourcesData)
 try:
     mgr.update()
     mgr.alter_app_info(alternateAppData)
