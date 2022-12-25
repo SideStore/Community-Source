@@ -2,6 +2,8 @@
 
 We provide users with a several different apps to install provided by the community and is moderated for quality assurance.
 
+Source URL: https://community-apps.sidestore.io/sidecommunity.json
+
 We are welcome to discussing changes to rules to make it better ofc.
 Community Store PR and app Guidelines:
 
