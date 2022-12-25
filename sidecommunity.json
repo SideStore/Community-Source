@@ -322,8 +322,9 @@
       "appID": "org.coolstar.odyssey"
     },
     {
-      "name": "Play",
+      "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
+      "appID": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
       "version": "0.56",
@@ -354,8 +355,7 @@
           "localizedDescription": "Bug fixes.",
           "size": 12346902
         }
-      ],
-      "appID": "com.virtualapplications.play"
+      ]
     },
     {
       "name": "iDOS",
