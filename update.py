@@ -129,10 +129,7 @@ def header_prepender(filename: str, header: str):
         f.truncate()
 
 filename="sidecommunity.json"
-header="""---
-title: JSON Source
-permalink: /
----"""
+header=""""""
 
 header_remover(filename,header)
 
