@@ -20,7 +20,7 @@ sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
-        "ids": ["com.louisanslow.record", "org.scummvm.scummvm", "com.dry05.filzaescaped11-12"]
+        "ids": ["com.louisanslow.record", "org.scummvm.scummvm"]
     },
     {
         "parser": Parser.ALTSOURCE,
