@@ -811,10 +811,10 @@
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
       "subtitle": "A fair world of social liberty",
-      "version": "1.0.6",
-      "versionDate": "2020-11-20",
-      "versionDescription": "https://blurt.blog/blurt/@sagarkothari88/we-are-ready-to-submit-to-appstore-and-curation-report-18th-and-19th-nov-2022",
-      "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.6(35)/Runner.ipa",
+      "version": "1.0.7",
+      "versionDate": "2023-01-01",
+      "versionDescription": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
+      "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7(36)/Runner.ipa",
       "localizedDescription": "The build which was also submitted to the Apple for AppStore review",
       "iconURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
       "tintColor": "8A28F7",
@@ -833,6 +833,13 @@
       ],
       "beta": false,
       "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2023-01-01",
+          "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7(36)/Runner.ipa",
+          "localizedDescription": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
+          "size": 857669
+        },
         {
           "version": "1.0.6",
           "date": "2020-11-20",
@@ -1085,6 +1092,17 @@
       "date": "2022-12-12",
       "notify": true,
       "imageURL": "https://user-images.githubusercontent.com/705880/207133455-1e851fd0-89ae-48f0-906f-8f86f4e394db.png"
+    },
+    {
+      "title": "blurt.blog - Download now - via AltStore",
+      "identifier": "blurt-blog-2023-01-01",
+      "caption": "Blurt.blog release via AltStore",
+      "date": "2023-01-01",
+      "tintColor": "8A28F7",
+      "imageURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
+      "url": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
+      "appID": "blog.blurt.blurt",
+      "notify": true
     }
   ],
   "version": 2
