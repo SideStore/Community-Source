@@ -38,6 +38,11 @@ sourcesData = [
         "ids": ["org.coolstar.odyssey"]
     },
     {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://enmity-altstore.staticallyamazing.workers.dev/"},
+        "ids": ["com.hammerandchisel.discord", "com.hammerandchisel.discord.dev"]
+    },
+    {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "Odyssey-Team", "repo_name": "Taurine"},
         #"kwargs": {"filepath": "https://taurine.app/altstore/taurinestore.json"},
