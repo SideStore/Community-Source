@@ -11,7 +11,7 @@
       "appID": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.56",
+      "version": "0.57-22-g1126c39c",
       "versionDate": "2022-09-13",
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://purei.org/downloads/play/stable/0.56/Play.ipa",
@@ -26,7 +26,7 @@
       ],
       "versions": [
         {
-          "version": "0.56",
+          "version": "0.57-22-g1126c39c",
           "date": "2022-10-17",
           "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
           "localizedDescription": "Bug fixes and improvements.",
