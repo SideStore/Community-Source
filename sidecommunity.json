@@ -342,11 +342,18 @@
       ],
       "versions": [
         {
-          "version": "0.56",
+          "version": "0.58-7-gdf46379d",
+          "date": "2023-01-03",
+          "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/df46379d/Play.ipa",
+          "localizedDescription": "Add copy Qt DLL phase. [df46379d]",
+          "size": 33200000
+        },
+        {
+          "version": "0.57-22-g1126c39c",
           "date": "2022-10-17",
           "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
           "localizedDescription": "Bug fixes and improvements.",
-          "size": 13400000
+          "size": 13371703
         },
         {
           "version": "0.5",
