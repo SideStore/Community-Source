@@ -109,6 +109,22 @@ sourcesData = [
     }
 ]
 alternateAppData = {
+
+"com.firebird.firebird-emu": {
+    "screenshotURLs": [
+        "https://user-images.githubusercontent.com/64176728/211237020-f12974b6-5836-4bf1-a927-002f9e48a00f.png",
+        "https://user-images.githubusercontent.com/64176728/211237030-6c613bae-3a5e-4826-9fd6-20dfa628bd4a.png",
+        "https://user-images.githubusercontent.com/64176728/211237032-e8a72501-9c94-4d5f-b50c-ea65ef84c361.png"
+    ]
+},
+"net.namedfork.minivmac": {
+    "screenshotURLs": [
+        "https://user-images.githubusercontent.com/64176728/211237407-e79d6562-c6c2-4a69-b8ea-4414e6b97be0.png",
+        "https://user-images.githubusercontent.com/64176728/211237433-ca07c970-747e-4fd1-a206-be07384183cb.png",
+        "https://user-images.githubusercontent.com/64176728/211237435-27c3a84c-7213-4a55-b4d9-b7a9362ffb36.png"
+        ]
+}
+
     #"eu.pokemmo.client": {
     #    "beta": False
     #}
