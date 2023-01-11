@@ -865,6 +865,42 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "beta": false,
+      "name": "VCMI",
+      "bundleIdentifier": "com.vcmi.VCMI",
+      "developerName": "VCMI Team",
+      "subtitle": "Heroes of Might & Magic III engine",
+      "version": "1.1.0",
+      "versionDate": "2022-12-23T12:00:00+04:00",
+      "versionDescription": "VCMI was ported on iOS",
+      "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.0/VCMI-1.1.0-5278271-iOS.ipa",
+      "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
+      "iconURL": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png",
+      "tintColor": "CD8526",
+      "size": 25501741,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png",
+        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"
+      ],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2022-12-23T12:00:00+04:00",
+          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.0/VCMI-1.1.0-5278271-iOS.ipa",
+          "localizedDescription": "VCMI was ported on iOS",
+          "size": 25501741
+        }
+      ],
+      "appID": "com.vcmi.VCMI"
     }
   ],
   "news": [
