@@ -116,7 +116,13 @@ sourcesData = [
         "kwargs": {"filepath": "https://github.com/spknetwork/Android-App/raw/development/ios/app.json"},
         "ids": ["com.example.acela"],
         "getAllNews": True
-    }
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/altstore.json"},
+        "ids": ["com.vcmi.VCMI"],
+        "getAllNews": True
+    }    
 ]
 alternateAppData = {
 
