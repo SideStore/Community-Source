@@ -875,7 +875,7 @@
       "version": "1.1.0",
       "versionDate": "2022-12-23T12:00:00+04:00",
       "versionDescription": "VCMI was ported on iOS",
-      "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.0/VCMI-1.1.0-5278271-iOS.ipa",
+      "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.0/VCMI-1.1.0-iOS.ipa",
       "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
       "iconURL": "https://github.com/vcmi/vcmi/raw/develop/client/icons/vcmiclient.512x512.png",
       "tintColor": "CD8526",
