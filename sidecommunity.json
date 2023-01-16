@@ -901,6 +901,39 @@
         }
       ],
       "appID": "com.vcmi.VCMI"
+    },
+    {
+      "name": "3Speak.tv - Acela",
+      "bundleIdentifier": "com.example.acela",
+      "developerName": "sagarkothari88",
+      "subtitle": "Tokenized Video Communities",
+      "version": "1.0.3",
+      "versionDate": "2022-12-08",
+      "versionDescription": "https://ecency.com/hive-181335/@sagarkothari88/3speak-development-update-from-sagarkothari88-7cd51a3b88448",
+      "downloadURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/Runner.ipa",
+      "localizedDescription": "The build which was also submitted to the Apple for TestFlight review",
+      "iconURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/AppIcon-512.png",
+      "tintColor": "AFEEEE",
+      "size": 857669,
+      "permissions": [],
+      "screenshotURLs": [
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5651.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5652.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5653.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5654.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5655.PNG"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2022-12-08",
+          "downloadURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/Runner.ipa",
+          "localizedDescription": "https://ecency.com/hive-181335/@sagarkothari88/3speak-development-update-from-sagarkothari88-7cd51a3b88448",
+          "size": 857669
+        }
+      ],
+      "appID": "com.example.acela"
     }
   ],
   "news": [
@@ -1147,6 +1180,17 @@
       "imageURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
       "url": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
       "appID": "blog.blurt.blurt",
+      "notify": true
+    },
+    {
+      "title": "3Speak.tv Acela - Download now - via AltStore",
+      "identifier": "3speak-tv-acela-download-2022-12-08",
+      "caption": "3Speak.tv Acela release via AltStore",
+      "date": "2022-12-08",
+      "tintColor": "afeeee",
+      "imageURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/AppIcon-512.png",
+      "url": "https://ecency.com/hive-181335/@sagarkothari88/3speak-development-update-from-sagarkothari88-7cd51a3b88448",
+      "appID": "com.example.acela",
       "notify": true
     }
   ],
