@@ -11,7 +11,7 @@
       "appID": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.58-7-70a126e3",
+      "version": "0.58-8-g70a126e3",
       "versionDate": "2023-01-10",
       "versionDescription": "Update submodules. [70a126e3]",
       "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
@@ -26,7 +26,7 @@
       ],
       "versions": [
         {
-          "version": "0.58-7-70a126e3",
+          "version": "0.58-8-g70a126e3",
           "date": "2023-01-10",
           "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
           "localizedDescription": "Update submodules. [70a126e3]",
