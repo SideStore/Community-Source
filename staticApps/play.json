@@ -11,10 +11,10 @@
       "appID": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.58-7-gdf46379d",
-      "versionDate": "2023-01-03",
-      "versionDescription": "Add copy Qt DLL phase. [df46379d]",
-      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/df46379d/Play.ipa",
+      "version": "0.58-8-g70a126e3",
+      "versionDate": "2023-01-10",
+      "versionDescription": "Update submodules. [70a126e3]",
+      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
       "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n\u2022 No BIOS required. Play! is an high-level emulator.\n\u2022 Easy configuration. No custom settings to fix specific games.\n\u2022 Available on many platforms, making sure the experience is the same quality everywhere.",
       "iconURL": "https://i.imgur.com/NOi1cdl.png",
       "tintColor": "#5f5fff",
@@ -25,6 +25,13 @@
         "https://user-images.githubusercontent.com/64176728/209461593-f771a49d-a44d-4d9c-8bb7-dfab48c5dd25.png"
       ],
       "versions": [
+        {
+          "version": "0.58-8-g70a126e3",
+          "date": "2023-01-10",
+          "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
+          "localizedDescription": "Update submodules. [70a126e3]",
+          "size": 33200000
+        },
         {
           "version": "0.58-7-gdf46379d",
           "date": "2023-01-03",
