@@ -9,6 +9,7 @@ sourcesData = [
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid"},
         "ids": ["com.rileytestut.Deltroid"]
+        "include_pre": True
     },
     {
         "parser": Parser.ALTSOURCE,
