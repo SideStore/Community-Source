@@ -7,9 +7,8 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 sourcesData = [
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid"},
-        "ids": ["com.rileytestut.Deltroid"],
-        "include_pre": True
+        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid", "include_pre": True},
+        "ids": ["com.rileytestut.Deltroid"]
     },
     {
         "parser": Parser.ALTSOURCE,
