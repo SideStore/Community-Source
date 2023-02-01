@@ -6,6 +6,11 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 sourcesData = [
     {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid", "include_pre": True},
+        "ids": ["com.rileytestut.Deltroid"]
+    },
+    {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://apps.altstore.io"},
         "ids": ["com.rileytestut.Delta"],
