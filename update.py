@@ -20,7 +20,7 @@ sourcesData = [
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://alpha.altstore.io"},
         "ids": ["com.rileytestut.Delta.Alpha", "com.rileytestut.Clip.Beta"],
-        "getAllNews": True
+        "getAllNews": False
     },
     {
         "parser": Parser.ALTSOURCE,
