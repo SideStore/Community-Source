@@ -12,18 +12,6 @@ sourcesData = [
     },
     {
         "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://apps.altstore.io"},
-        "ids": ["com.rileytestut.Delta"],
-        "getAllNews": True
-    },
-    {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://alpha.altstore.io"},
-        "ids": ["com.rileytestut.Delta.Alpha", "com.rileytestut.Clip.Beta"],
-        "getAllNews": False
-    },
-    {
-        "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
         "ids": ["com.louisanslow.record", "org.scummvm.scummvm"]
     },
