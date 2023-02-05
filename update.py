@@ -47,6 +47,12 @@ sourcesData = [
         "ids": ["com.example.mame4ios"]
     },
     {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://ish.app/altstore.json"},
+        "ids": ["app.ish.iSH"],
+        "getAllNews": True
+    },
+    {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "nspire-emus", "repo_name": "firebird"},
         "ids": ["com.firebird.firebird-emu"]
@@ -124,6 +130,12 @@ alternateAppData = {
         "https://user-images.githubusercontent.com/64176728/211237020-f12974b6-5836-4bf1-a927-002f9e48a00f.png",
         "https://user-images.githubusercontent.com/64176728/211237030-6c613bae-3a5e-4826-9fd6-20dfa628bd4a.png",
         "https://user-images.githubusercontent.com/64176728/211237032-e8a72501-9c94-4d5f-b50c-ea65ef84c361.png"
+    ]
+},
+"app.ish.iSH": {
+    "screenshotURLs": [
+        "https://ish.app/assets/front-iphone-full.png",
+        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
     ]
 },
 "net.namedfork.minivmac": {
