@@ -49,7 +49,7 @@ sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://ish.app/altstore.json"},
-        "ids": ["app.ish.iSH"]
+        "ids": ["app.ish.iSH"],
         "getAllNews": True
     },
     {
