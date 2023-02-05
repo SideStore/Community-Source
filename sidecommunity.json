@@ -879,6 +879,34 @@
         }
       ],
       "appID": "com.example.acela"
+    },
+    {
+      "bundleIdentifier": "app.ish.iSH",
+      "name": "iSH",
+      "developerName": "Theodore Dubois and contributors",
+      "iconURL": "https://ish.app/assets/icon-full.png",
+      "tintColor": "000000",
+      "subtitle": "Linux shell for iOS",
+      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+      "screenshotURLs": [
+        "https://ish.app/assets/front-iphone-full.png",
+        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
+      ],
+      "version": "Build 447",
+      "versionDate": "2023-02-03T06:07:41+00:00",
+      "versionDescription": "Automated daily build",
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/447/iSH.ipa",
+      "size": 4177818,
+      "versions": [
+        {
+          "version": "Build 447",
+          "date": "2023-02-03T06:07:41+00:00",
+          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/447/iSH.ipa",
+          "localizedDescription": "Automated daily build",
+          "size": 4177818
+        }
+      ],
+      "appID": "app.ish.iSH"
     }
   ],
   "news": [
