@@ -18,7 +18,7 @@ sourcesData = [
     {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "ppy", "repo_name": "osu"},
-        "ids": ["sh.ppy.osulaser"]
+        "ids": ["sh.ppy.osulazer"]
     },
     {
         "parser": Parser.ALTSOURCE,
