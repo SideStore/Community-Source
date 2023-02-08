@@ -89,10 +89,10 @@
       "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "ppy",
       "subtitle": "The bestest free-to-play rythm game!",
-      "version": "1.5",
+      "version": "2023.207.0",
       "versionDate": "2023-2-07T22:00:00-05:00",
-      "versionDescription": "Additions and Bugfixes. More info: https://github.com/lonkelle/Deltroid/releases",
-      "downloadURL": "https://github.com/lonkelle/Deltroid/releases/download/v0.9.1/Deltroid.ipa",
+      "versionDescription": "More info: https://github.com/ppy/osu/releases",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.207.0/osu.iOS.ipa",
       "localizedDescription": "Test",
       "iconURL": "https://github.com/ppy/osu/raw/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iOSAppStore.png",
       "tintColor": "8A28F7",
@@ -111,10 +111,10 @@
       ],
       "versions": [
         {
-          "version": "1.5",
+          "version": "2023.207.0",
           "date": "2023-2-07T22:00:00-05:00",
-          "downloadURL": "https://github.com/lonkelle/Deltroid/releases/download/v0.9.1/Deltroid.ipa",
-          "localizedDescription": "Additions and Bugfixes. More info: https://github.com/lonkelle/Deltroid/releases",
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.207.0/osu.iOS.ipa",
+          "localizedDescription": "More info: https://github.com/ppy/osu/releases",
           "size": 48300000
         }
       ],
