@@ -1,10 +1,12 @@
 # Welcome to The Offical SideStore Community Appstore!
 
-We provide users with a several different apps to install provided by the community and is moderated for quality assurance.
+We provide users with a several different apps to install provided by the community and developers. We welcome this source to be used as a TestFlight alternative also like if you have beta builds or you update more often and TestFlight is slow we have updates checked hourly. Could just be an area for easy distribution for apps here for developers. 
+
+**The community store is moderated for quality assurance. If you have an up that you want taken down that you own then please message us!** 
 
 Source URL: https://community-apps.sidestore.io/sidecommunity.json
 
-We are welcome to discussing changes to rules to make it better ofc.
+### We are welcome to discussing changes to rules to make it better.
 Community Store PR and app Guidelines:
 
 1. Make sure your app works and versioning is changed inside app (There is exceptions for this for unique cases).
