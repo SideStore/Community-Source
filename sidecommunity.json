@@ -85,6 +85,36 @@
       ]
     },
     {
+      "name": "osu!lazer",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "developerName": "ppy",
+      "subtitle": "The bestest free-to-play rythm game!",
+      "version": "0.1.0",
+      "versionDate": "2023-2-07T22:00:00-05:00",
+      "versionDescription": "More info: https://github.com/ppy/osu/releases",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.207.0/osu.iOS.ipa",
+      "localizedDescription": "Osu!lazer is an open source free-to-play music rhythm game developed by ppy. It has many types of game modes like takio! The games standard gameplay consists of circles that you click on time or slide around in sync to the rythm! Learn more about osu! here: https://osu.ppy.sh/ \n\nOsu GitHub: https://github.com/ppy/osu",
+      "iconURL": "https://github.com/ppy/osu/raw/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iOSAppStore.png",
+      "tintColor": "FFC0CB",
+      "size": 48300000,
+      "permissions": [],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/64176728/217532749-a36c6ad8-90d1-46bd-bf99-eeac1da588f3.png",
+        "https://user-images.githubusercontent.com/64176728/217532770-e5292dd8-fc23-4a74-8dd8-0b9ba9243d54.png",
+        "https://user-images.githubusercontent.com/64176728/217532787-d5285f95-3fe3-4cea-9ffe-2a0dc622bc01.png"
+      ],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2023-2-07T22:00:00-05:00",
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.207.0/osu.iOS.ipa",
+          "localizedDescription": "More info: https://github.com/ppy/osu/releases",
+          "size": 48300000
+        }
+      ],
+      "appID": "sh.ppy.osulazer"
+    },
+    {
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "Henrik Rydg\u00e5rd",

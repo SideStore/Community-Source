@@ -16,6 +16,11 @@ sourcesData = [
         "ids": ["com.louisanslow.record", "org.scummvm.scummvm"]
     },
     {
+        "parser": Parser.GITHUB,
+        "kwargs": {"repo_author": "ppy", "repo_name": "osu"},
+        "ids": ["sh.ppy.osulazer"]
+    },
+    {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/SideStore/Community-Source/main/staticApps/play.json"},
         "ids": ["com.virtualapplications.play"]
