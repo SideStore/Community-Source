@@ -196,12 +196,19 @@
         "https://ish.app/assets/front-iphone-full.png",
         "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
       ],
-      "version": "Build 452",
-      "versionDate": "2023-02-14T06:07:48+00:00",
+      "version": "Build 454",
+      "versionDate": "2023-02-16T06:07:30+00:00",
       "versionDescription": "Automated daily build",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/452/iSH.ipa",
-      "size": 4183981,
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/454/iSH.ipa",
+      "size": 4183985,
       "versions": [
+        {
+          "version": "Build 454",
+          "date": "2023-02-16T06:07:30+00:00",
+          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/454/iSH.ipa",
+          "localizedDescription": "Automated daily build",
+          "size": 4183985
+        },
         {
           "version": "Build 452",
           "date": "2023-02-14T06:07:48+00:00",
