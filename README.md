@@ -5,6 +5,7 @@ We provide users with a several different apps to install provided by the commun
 **The community store is moderated for quality assurance. If you have an up that you want taken down that you own then please message us!** 
 
 Source URL: https://community-apps.sidestore.io/sidecommunity.json
+
 View iPA's: https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fcommunity-apps.sidestore.io%2Fsidecommunity.json
 
 ### We are welcome to discussing changes to rules to make it better.
