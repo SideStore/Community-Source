@@ -553,7 +553,6 @@
           "version": "1.5",
           "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa"
         }
-        }
       ],
       "appID": "com.firebird.firebird-emu"
     },
