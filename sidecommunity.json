@@ -552,14 +552,7 @@
           "size": 9953289,
           "version": "1.5",
           "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa"
-        },
-        {
-          "version": "1.5",
-          "date": "2020-03-28T14:25:34Z",
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.5/firebird-iOS.ipa",
-          "localizedDescription": "# A heap of improvements: Firebird 1.5\n\n**New features:**\r\n* UI language can be switched\r\n* The debugger has a command history, press Up and Down arrow keys\r\n* On Android, the system file picker is used now, which fixes \"Could not start the emulation\" in many cases\r\n* The color scheme follows the system now\r\n* Improved performance of CX flash access by ignoring certain cache flush requests\r\n\r\n**Improvements:**\r\n* LCD can be resized freely now\r\n* Performance improvements for the ARM and AArch64 JITs\r\n* Supports macOS 10.15 Catalina\r\n* The Android APK includes arm64-v8a now\r\n* The Windows ZIP includes software OpenGL now, so should work on more systems\r\n\r\n**Bugfixes:**\r\n* Fix the external LCD sometimes being invisible\r\n* Allows building with recent versions of the Android NDK with clang\r\n* Does not crash on exit due to use of incompatible compile flags with GCC\r\n* Android devices with a lower w/h ratio are marked as supported now\r\n* firebird-send supports different implementations of netcat now\r\n* GDB and remote debugger work after emulation autostart as well\r\n* Moving the cursor over keypad buttons no longer clicks\r\n* On Windows, the filename for snapshots can now include non-ASCII characters\r\n* Fix crash on emulation start on certain x86-64 systems\r\n* Fix freeze on exit on JIT builds for the iOS version\r\n\r\nNote: Firebird Emu requires Qt 5.9 now.\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n",
-          "size": 9680896,
-          "absoluteVersion": "1.5"
+        }
         }
       ],
       "appID": "com.firebird.firebird-emu"
