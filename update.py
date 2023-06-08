@@ -178,7 +178,7 @@ mgr = AltSourceManager(src, sourcesData)
 try:
     mgr.update()
     mgr.alter_app_info(alternateAppData)
-    mgr.save(prettify=True)
+    mgr.save(prettify=True,only_standard_props=False)
     #mgr.save("sidecommunity.min.json",prettify=False) # use to save an additional copy of the json except minified
 except Exception as err:
     logging.error(f"Unable to update {mgr.src.name}.")
