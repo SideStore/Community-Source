@@ -6,9 +6,9 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 sourcesData = [
     {
-        "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid"},
-        "ids": ["com.rileytestut.Deltroid"]
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://apps.litritt.com"},
+        "ids": ["com.litritt.ignited"]
     },
     {
         "parser": Parser.ALTSOURCE,
