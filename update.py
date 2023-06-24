@@ -79,11 +79,6 @@ sourcesData = [
     },
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "ianclawson", "repo_name": "Delta-iPac-Edition"},
-        "ids": ["com.ianclawson.DeltaPacEdition"]
-    },
-    {
-        "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "zydeco", "repo_name": "minivmac4ios"},
         ## This is the previous kwargs required when this application was distributed as a zipped .ipa file ##
         ## "kwargs": {"repo_author": "zydeco", "repo_name": "minivmac4ios", "asset_regex": r".*\.ipa\.zip", "extract_twice": True, "upload_ipa_repo": g_release},
