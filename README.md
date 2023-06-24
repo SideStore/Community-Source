@@ -7,9 +7,9 @@ __Welcome to The Offical SideStore Community Appstore!__
 
 ![Alt](https://repobeats.axiom.co/api/embed/e1a029ce7e1349bab2a4465d905a236e5fe642df.svg "Repobeats analytics image")
 
-We provide users with a several different apps to install provided by the community and developers. We welcome this source to be used as a TestFlight alternative also like if you have beta builds or you update more often and TestFlight is slow we have updates checked hourly. Could just be an area for easy distribution for apps here for developers. 
+We provide users with a several different apps to install provided by the community and developers. We welcome this source to be used as a TestFlight alternative. if you have beta builds or you update more often and TestFlight is slow we have updates checked hourly. Its an easy area for distribution of apps for developers. 
 
-**The community store is moderated for quality assurance. If you have an up that you want taken down that you own then please message us!** 
+**The community store is moderated for quality assurance. If you have an app that you want taken down that you own. Please message us!** 
 
 Source URL: https://community-apps.sidestore.io/sidecommunity.json
 
