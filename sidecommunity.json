@@ -1,5 +1,5 @@
 {
-  "name": "SideStore Team Picks",
+  "name": "SideStore Connect",
   "identifier": "com.sidestoreapps.community",
   "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
   "sourceIconURL": "https://github.com/SideStore/CommunityStore/raw/main/assets/CF187B94-322C-409E-B475-44218E6CBDF7.jpeg",
@@ -702,43 +702,6 @@
       ]
     },
     {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "subtitle": "A new jailbreak for a new era.",
-      "version": "1.4.3",
-      "versionDate": "2023-04-03",
-      "versionDescription": "- Update Sileo to 2.3-1",
-      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
-      "tintColor": "D287F4",
-      "size": 27200000,
-      "beta": false,
-      "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
-      ],
-      "versions": [
-        {
-          "version": "1.4.3",
-          "date": "2023-04-03",
-          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-          "localizedDescription": "- Update Sileo to 2.3-1",
-          "size": 27200000
-        },
-        {
-          "version": "1.4.2",
-          "date": "2022-02-18",
-          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.2/Odyssey-1.4.2.ipa",
-          "localizedDescription": "- Update Sileo to 2.3\n- Replace Packix with Havoc as default repo",
-          "size": 27200000
-        }
-      ],
-      "appID": "org.coolstar.odyssey"
-    },
-    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "appID": "com.virtualapplications.play",
@@ -1428,16 +1391,6 @@
       "notify": false
     },
     {
-      "title": "Odyssey Now Available!",
-      "identifier": "odyssey-x-altstore",
-      "caption": "A new jailbreak for a new era.",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-08-20",
-      "notify": true
-    },
-    {
       "title": "Check out ScummVM!",
       "identifier": "scummvm-first-release-altstore",
       "caption": "Point and click adventures at your fingertips.",
@@ -1468,16 +1421,6 @@
       "notify": false
     },
     {
-      "title": "Odyssey 1.2 now available!",
-      "identifier": "odyssey-1.2-available",
-      "caption": "Supports iOS 13.0-13.7",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-11-24",
-      "notify": true
-    },
-    {
       "title": "Taurine now available!",
       "identifier": "taurine-release",
       "caption": "Supports iOS 14.0-14.3",
@@ -1496,17 +1439,6 @@
       "appID": "com.zurac.OldOS",
       "date": "2022-01-10",
       "notify": false
-    },
-    {
-      "title": "blurt.blog - Download now - via AltStore",
-      "identifier": "blurt-blog-2020-11-13",
-      "caption": "Blurt.blog release via AltStore",
-      "date": "2020-11-12",
-      "tintColor": "8A28F7",
-      "imageURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
-      "url": "https://blurt.blog/blurt/@sagarkothari88/we-are-ready-to-submit-to-appstore-and-curation-report-18th-and-19th-nov-2022",
-      "appID": "blog.blurt.blurt",
-      "notify": true
     },
     {
       "title": "More Trusted Sources!",
@@ -1540,99 +1472,33 @@
       "notify": true
     },
     {
-      "title": "Delta Gaining DS Support",
-      "identifier": "delta-ds-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
-      "date": "2019-09-25",
-      "notify": false
-    },
-    {
-      "title": "Delta Now Available",
-      "identifier": "delta-now-available",
-      "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
-      "appID": "com.rileytestut.Delta",
-      "date": "2019-09-28",
-      "notify": true
-    },
-    {
-      "title": "Sideloading is Here!",
+      "title": "How to sideload any app!",
       "identifier": "sideloading-is-here",
-      "caption": "Update to AltStore 1.3 to install any app directly from Files.",
+      "caption": "Install any iOS app directly from Files by tapping the + in the My Apps tab.",
       "tintColor": "018084",
       "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
-      "date": "2020-04-10T13:00:00-07:00",
+      "date": "2023-04-10T13:00:00-07:00",
       "notify": true
     },
     {
-      "title": "iOS 13.4 Fixes App Crashes",
-      "identifier": "ios-13-4-now-available",
-      "caption": "Update to iOS 13.4 to fix some sideloaded apps crashing on launch.",
-      "tintColor": "34C759",
-      "date": "2020-04-10T13:30:00-07:00",
-      "notify": false
-    },
-    {
-      "title": "Clip Now Available!",
-      "identifier": "clip-now-available",
-      "caption": "Finally, a clipboard manager that can run in the background \u2014 no jailbreak required.",
-      "tintColor": "EC008C",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
-      "appID": "com.rileytestut.Clip",
-      "date": "2020-06-17",
-      "notify": true
-    },
-    {
-      "title": "Delta, Meet Nintendo DS",
-      "identifier": "delta-meet-ds",
-      "caption": "Update to Delta 1.3 to relive all your favorite Nintendo DS games.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/115617602-6ce2b600-a2a6-11eb-984e-2197a30c71e2.png",
-      "appID": "com.rileytestut.Delta",
-      "date": "2021-04-21",
-      "notify": true
-    },
-    {
-      "title": "#StandWithUkraine",
-      "identifier": "support-ukraine",
-      "caption": "Find out how you can help support those impacted by the Russian invasion.",
-      "tintColor": "003e80",
-      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
-      "url": "https://linktr.ee/razomforukraine",
-      "date": "2022-03-01",
-      "notify": false
-    },
-    {
-      "title": "The Biggest AltServer Update Yet!",
-      "identifier": "altserver-1-5",
-      "caption": "Update to AltServer 1.5 to use AltJIT and other exciting new features.",
+      "title": "SideServer for macOS is now available!",
+      "identifier": "sideserver-1-5",
+      "caption": "Very easily re-install SideStore on macOS (keychain support added).",
       "tintColor": "018084",
       "imageURL": "https://user-images.githubusercontent.com/705880/166509576-744be578-6868-4b7d-b4fd-b9418c084327.png",
       "url": "https://faq.altstore.io/release-notes/altserver",
-      "date": "2022-05-03",
+      "date": "2023-05-03",
       "notify": true
     },
     {
-      "title": "More Apps in AltStore!",
+      "title": "Trusted Sources within SideStore!",
       "identifier": "trusted-sources",
-      "caption": "Update to AltStore 1.5 to easily download some of our favorite apps.",
+      "caption": "Simply go to the Browse tab below to access app sources we vet and keep up to date.",
       "tintColor": "00CAB3",
       "imageURL": "https://user-images.githubusercontent.com/705880/167026375-ddcb004f-7160-405c-b3e3-87a6795d2f43.png",
       "url": "https://faq.altstore.io/release-notes/altstore",
-      "date": "2022-05-05",
+      "date": "2023-05-05",
       "notify": true
-    },
-    {
-      "title": "New to AltStore?",
-      "identifier": "updated-faq",
-      "caption": "Check out our updated guide to learn how to sideload apps!",
-      "tintColor": "018084",
-      "url": "https://faq.altstore.io",
-      "date": "2022-07-28",
-      "notify": false
     }
   ],
   "version": 2,
