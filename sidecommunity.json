@@ -351,49 +351,6 @@
       }
     },
     {
-      "name": "Delta iPac Edition",
-      "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
-      "developerName": "Riley Testut & Ian Clawson",
-      "version": "1",
-      "versionDate": "2021-11-19T19:13:13Z",
-      "versionDescription": "# iPac Edition Official Release\n\nOnly the IPA is included. The \"Source Code\" is merely the README.\r\n\r\nNew Features:\r\n* Optimized AirPlay Support\r\n* Local Mulitplayer (NES, SNES, N64, GEN)\r\n* Nintendo-Switch-Online-like Rewind\r\n* Additional MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)\r\n* External Controller deadzones for analog inputs (allows analog sticks to work properly for d-pads)\r\n* External Controller connection now prevents game screen from rotating\r\n* SNES Audio no longer crackles\r\n* Bonus: Quick Saves now Sync",
-      "downloadURL": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-      "localizedDescription": "This version of Delta is essentially the base version of Delta, but with a large number of popular and highly anticipated Pull Requests merged in. Keep in mind there are some bugs and graphical glitches. Refer to https://github.com/ianclawson/Delta-iPac-Edition#readme for more details.",
-      "iconURL": "https://i.imgur.com/OPkKmCO.png",
-      "tintColor": "#8A28F7",
-      "size": 19765623,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
-        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
-      ],
-      "category": "Emulator",
-      "subcategories": [
-        "Console",
-        "Multi",
-        "Simulator"
-      ],
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
-      "subtitle": "A sneak peek preview of Delta!",
-      "absoluteVersion": "1.0.1",
-      "versions": [
-        {
-          "version": "1",
-          "date": "2021-11-19T19:13:13Z",
-          "downloadURL": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-          "localizedDescription": "# iPac Edition Official Release\n\nOnly the IPA is included. The \"Source Code\" is merely the README.\r\n\r\nNew Features:\r\n* Optimized AirPlay Support\r\n* Local Mulitplayer (NES, SNES, N64, GEN)\r\n* Nintendo-Switch-Online-like Rewind\r\n* Additional MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)\r\n* External Controller deadzones for analog inputs (allows analog sticks to work properly for d-pads)\r\n* External Controller connection now prevents game screen from rotating\r\n* SNES Audio no longer crackles\r\n* Bonus: Quick Saves now Sync",
-          "size": 19765623,
-          "absoluteVersion": "1.0.1"
-        }
-      ]
-    },
-    {
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "Henrik Rydg\u00e5rd",
