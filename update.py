@@ -26,11 +26,6 @@ sourcesData = [
         "ids": ["com.libretro.RetroArchiOS11"]
     },
     {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://theodyssey.dev/altstore/odysseysource.json"},
-        "ids": ["org.coolstar.odyssey"]
-    },
-    {
         "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "Odyssey-Team", "repo_name": "Taurine"},
         #"kwargs": {"filepath": "https://taurine.app/altstore/taurinestore.json"},
