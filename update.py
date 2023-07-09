@@ -27,12 +27,6 @@ sourcesData = [
     },
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "Odyssey-Team", "repo_name": "Taurine"},
-        #"kwargs": {"filepath": "https://taurine.app/altstore/taurinestore.json"},
-        "ids": ["org.coolstar.taurine"]
-    },
-    {
-        "parser": Parser.GITHUB,
         "kwargs": {"repo_author": "iNDS-Team", "repo_name": "iNDS"},
         "ids": ["net.nerd.iNDS"]
     },
