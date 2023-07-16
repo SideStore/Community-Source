@@ -7,8 +7,8 @@
   "apps": [
     {
       "subtitle": "Retro games meet modern design.",
-      "version": "1.5",
-      "versionDate": "2023-07-13T00:00:00-04:00",
+      "version": "1.5.1",
+      "versionDate": "2023-07-16T00:00:00-04:00",
       "permissions": [
         {
           "type": "photos",
@@ -18,7 +18,7 @@
       "bundleIdentifier": "com.litritt.ignited",
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
-      "versionDescription": "New Features\n\u2022 AirPlay\n  \u2022 Proper support for streaming games to an external screen\n\u2022 Trigger Deadzone\n  \u2022 Adjustable deadzone for trigger inputs on controllers\n\u2022 Skin Background Color\n  \u2022 Change the background color of controller skins from black to any other color\n\nUpdates\n\u2022 Fast Forward inputs can now be manually switched between toggle and hold by users\n\u2022 Improved default button mappings for various Switch controllers\n\u2022 Updated app icon and other assets to match modified design\n\u2022 Various syncing improvements in Harmony\n\nBugfixes\n\u2022 Make Quick Settings dismissible with controller input\n\u2022 Fixes DS save states made with JIT enabled not loading when JIT is not enabled\n\u2022 Fixes crash when loading save states on iOS 17",
+      "versionDescription": "Updates\n\u2022 Different button overlay styles to choose from\n\u2022 Updated button sounds to play through the audio engine instead of as system sounds\n\u2022 Button sounds can be played at either their own volume, or the same volume of game audio\n\nBugfixes\n\u2022 Fixes launching a game via deep link not respecting the auto load save state setting",
       "size": 45506066,
       "screenshotURLs": [
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/overlay.jpg?raw=true",
@@ -30,6 +30,14 @@
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.jpg?raw=true"
       ],
       "versions": [
+        {
+          "size": 45506066,
+          "date": "2023-07-16T00:00:00-04:00",
+          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5/Ignited.ipa",
+          "localizedDescription": "Updates\n\u2022 Different button overlay styles to choose from\n\u2022 Updated button sounds to play through the audio engine instead of as system sounds\n\u2022 Button sounds can be played at either their own volume, or the same volume of game audio\n\nBugfixes\n\u2022 Fixes launching a game via deep link not respecting the auto load save state setting",
+          "version": "1.5.1",
+          "sha256": "f5afc89111f2329d965834529b456f38f8d8eaf5e45f5acb8b50ea9c3bea6ef9"
+        },
         {
           "size": 45506066,
           "date": "2023-07-13T00:00:00-04:00",
