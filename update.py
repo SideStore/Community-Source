@@ -7,11 +7,6 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://apps.litritt.com"},
-        "ids": ["com.litritt.ignited"]
-    },
-    {
-        "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://quarksources.github.io/quarksource.json"},
         "ids": ["com.louisanslow.record", "org.scummvm.scummvm"]
     },
