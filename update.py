@@ -98,7 +98,7 @@ sourcesData = [
     {
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/altstore.json"},
-        "ids": ["com.vcmi.VCMI"],
+        "ids": ["eu.vcmi.vcmiclient"],
         "getAllNews": True
     }    
 ]
