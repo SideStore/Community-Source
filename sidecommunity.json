@@ -886,7 +886,7 @@
     {
       "beta": false,
       "name": "VCMI",
-      "bundleIdentifier": "com.vcmi.VCMI",
+      "bundleIdentifier": "eu.vcmi.vcmiclient",
       "developerName": "VCMI Team",
       "subtitle": "Heroes of Might & Magic III engine",
       "version": "1.3.2",
