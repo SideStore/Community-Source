@@ -2,7 +2,7 @@
   "name": "SideStore Team Picks",
   "identifier": "com.sidestoreapps.community",
   "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json",
-  "iconURL": "https://sidestore.io/assets/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/AltWidget/Assets.xcassets/AltStore.imageset/1024.png",
   "userinfo": {},
   "apps": [
     {
