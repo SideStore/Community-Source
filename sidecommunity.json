@@ -51,8 +51,8 @@
       "size": 460000,
       "screenshotURLs": [
         "https://github.com/neoarz/Countdown-App/raw/main/AltStore%3ASidestore%20Assets/Clock.jpeg",
-        "https://github.com/neoarz/Countdown-App/raw/main/AltStore%3ASidestore%20Assets/UserAgreementBroken.jpeg",
-        "https://github.com/neoarz/Countdown-App/raw/main/AltStore%3ASidestore%20Assets/AcceptTOC.jpeg"
+        "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/UserAgreementBroken.jpeg",
+        "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/AcceptTOC.jpeg"
       ],
       "subtitle": "If you could know exactly when you're going to die, would you want to know?",
       "absoluteVersion": "1.4",
@@ -696,10 +696,10 @@
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "developerName": "XITRIX",
       "subtitle": "Ordinary iOS torrent client app.",
-      "version": "1.8.3",
-      "versionDate": "2020-09-20",
+      "version": "2.0.14",
+      "versionDate": "2024-11-19",
       "versionDescription": "What's new:\n\n\u2022 Text accessibility support added\n\u2022 Huge backend refactoring\n\u2022 Libtorrent updated to 1.2.9\n\u2022 Minor UI improvements\n\u2022 Many bugs fixed (possibly new ones added)",
-      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.14-1/iTorrent.ipa",
       "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n\u2022 Download in the background\n\u2022 Sequential download (use VLC to watch films while loading)\n\u2022 Add torrent files from Share menu (Safari and other apps)\n\u2022 Add magnet links directly from Safari\n\u2022 Store files in Files app (iOS 11+)\n\u2022 File sharing directly from app\n\u2022 Download torrent by link\n\u2022 Download torrent by magnet\n\u2022 Send notification on torrent downloaded\n\u2022 FTP Server (unstable)\n\u2022 Select files to download or not\n\u2022 Change UI to dark theme\n\nNow supporting these localizations:\n\u2022 English\n\u2022 Russian\n\u2022 Turkish",
       "iconURL": "https://i.imgur.com/C3KwMP5.png",
       "tintColor": "#e32b3c",
@@ -718,10 +718,10 @@
       ],
       "versions": [
         {
-          "version": "1.8.3",
-          "date": "2020-09-20",
-          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
-          "localizedDescription": "What's new:\n\n\u2022 Text accessibility support added\n\u2022 Huge backend refactoring\n\u2022 Libtorrent updated to 1.2.9\n\u2022 Minor UI improvements\n\u2022 Many bugs fixed (possibly new ones added)",
+          "version": "2.0.14",
+          "date": "2020-11-19",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.14-1/iTorrent.ipa",
+          "localizedDescription": "What's new: Status filters in navigation bar",
           "size": 21218913
         }
       ]
@@ -1041,7 +1041,7 @@
       "identifier": "countdown-now-avaliable",
       "caption": "If you could know exactly when you're going to die, would you want to know?",
       "tintColor": "#000000",
-      "imageURL": "https://github.com/neoarz/Countdown-App/raw/main/Repo%20Assets/SideStore%20News.png",
+      "imageURL": "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/SideStoreNews.png",
       "appID": "com.neo.countdown",
       "date": "2025-01-20",
       "notify": false
@@ -1063,7 +1063,7 @@
       "tintColor": "#e32b3c",
       "imageURL": "https://i.imgur.com/LAVDwAh.png",
       "appID": "ru.nonamedude.iTorrent",
-      "date": "2020-03-24",
+      "date": "2024-11-29",
       "notify": false
     },
     {
