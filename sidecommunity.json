@@ -151,7 +151,7 @@
       "version": "iSH 1.3.2",
       "versionDate": "2023-04-23T04:37:22+00:00",
       "versionDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-      "downloadURL": "https://github.com/ish-app/ish/releases/latest/download/iSH.ipa",
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/494/iSH.ipa",
       "size": 4183791,
       "versions": [
         {
@@ -693,7 +693,7 @@
     },
     {
       "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
       "developerName": "XITRIX",
       "subtitle": "Ordinary iOS torrent client app.",
       "version": "2.0.14",
