@@ -1167,16 +1167,6 @@
       "notify": true
     },
     {
-      "title": "SideServer for macOS is now available!",
-      "identifier": "sideserver-1-5",
-      "caption": "Very easily re-install SideStore on macOS (keychain support added).",
-      "tintColor": "018084",
-      "imageURL": "https://user-images.githubusercontent.com/705880/166509576-744be578-6868-4b7d-b4fd-b9418c084327.png",
-      "url": "https://faq.altstore.io/release-notes/altserver",
-      "date": "2023-05-03",
-      "notify": true
-    },
-    {
       "title": "Trusted Sources within SideStore!",
       "identifier": "trusted-sources",
       "caption": "Simply go to the Browse tab below to access app sources we vet and keep up to date.",
