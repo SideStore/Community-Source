@@ -85,6 +85,18 @@
         "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot2.png?raw=true",
         "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot3.png?raw=true"
       ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.sustained-execution",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit"
+
+        ],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission."
+        }
+      },
       "subtitle": "SwiftUI NES Emulator for iOS",
       "absoluteVersion": "5.2",
       "appID": "com.stik.StikNES",
