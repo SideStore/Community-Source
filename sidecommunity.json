@@ -80,6 +80,12 @@
       "iconURL": "https://github.com/StikEMU/StikNES-Site/blob/main/Website/logo.png?raw=true",
       "tintColor": "293B45",
       "size": 490000,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows you to set images to your games!"       
+        }
+      ]
       "screenshotURLs": [
         "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.png?raw=true",
         "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot2.png?raw=true",
