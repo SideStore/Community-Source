@@ -90,7 +90,6 @@
           "com.apple.developer.sustained-execution",
           "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.kernel.increased-memory-limit"
-
         ],
         "privacy": {
           "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
@@ -1074,6 +1073,38 @@
         }
       ],
       "appID": "com.example.acela"
+    },
+    {
+      "name": "Wander",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "developerName": "faisal-nabulsi",
+      "subtitle": "Set your GPS anywhere \u2014 free.",
+      "version": "1.0",
+      "versionDate": "2026-07-02T00:00:00Z",
+      "versionDescription": "First public release of Wander.",
+      "downloadURL": "https://github.com/faisal-nabulsi/Wander/releases/download/v1.0/Wander.ipa",
+      "localizedDescription": "Wander sets your iPhone's location to anywhere in the world, on-device and free.\n\n\u2022 Teleport \u2014 search an address or drop a pin and go\n\u2022 Joystick \u2014 an on-screen stick that moves you in real time\n\u2022 Route \u2014 drive a real road route at realistic speed\n\u2022 Places, natural GPS jitter, km/h/mph, and an in-app setup checklist\n\nFree & open-source (AGPL): https://github.com/faisal-nabulsi/Wander\n\nRequires iOS 17+, Developer Mode, a pairing file, and a tunnel (LocalDevVPN on a free Apple ID). Disclaimer: Wander talks to the device's own developer services over an on-device tunnel to simulate location; it does not collect or transmit personal data. Spoofing your location may violate some apps' Terms of Service \u2014 use responsibly.",
+      "iconURL": "https://raw.githubusercontent.com/faisal-nabulsi/Wander/main/Wander/Assets.xcassets/AppIcon.appiconset/icon.png",
+      "tintColor": "#185FA5",
+      "category": "utilities",
+      "size": 4425623,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/faisal-nabulsi/Wander/main/docs/screenshots/teleport.png",
+        "https://raw.githubusercontent.com/faisal-nabulsi/Wander/main/docs/screenshots/joystick.png",
+        "https://raw.githubusercontent.com/faisal-nabulsi/Wander/main/docs/screenshots/route.png"
+      ],
+      "absoluteVersion": "1.0",
+      "appID": "com.stik.stikdebug",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-02T00:00:00Z",
+          "downloadURL": "https://github.com/faisal-nabulsi/Wander/releases/download/v1.0/Wander.ipa",
+          "localizedDescription": "First public release of Wander.",
+          "size": 4425623,
+          "absoluteVersion": "1.0"
+        }
+      ]
     }
   ],
   "news": [
