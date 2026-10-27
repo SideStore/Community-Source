@@ -100,7 +100,13 @@ sourcesData = [
         "kwargs": {"filepath": "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/altstore.json"},
         "ids": ["eu.vcmi.vcmiclient"],
         "getAllNews": True
-    }    
+    },
+    {
+        "parser": Parser.ALTSOURCE,
+        "kwargs": {"filepath": "https://raw.githubusercontent.com/ekomlenovic/rush_hour_ios_android/refs/heads/main/sidestore-source.json"},
+        "ids": ["com.rushhours.app"],
+        "getAllNews": True
+    }
 ]
 alternateAppData = {
 
